@@ -1,0 +1,18 @@
+## YAML Template.
+---
+name: Mute
+main: Mute.mute
+version: 1.0
+description: Rend les joueurs muets
+author: QuadroPhazon
+
+commands:
+  mute:
+    description: rend un joueur muet suivant la valeur definie
+    usage: /mute [joueur] [temps]
+    permission: permission.exemple
+    
+permissions:
+  Mute.mute:
+    description: permet d'utiliser la commande /mute
+    default: op

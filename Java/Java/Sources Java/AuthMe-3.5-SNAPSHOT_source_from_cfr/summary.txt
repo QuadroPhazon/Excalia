@@ -1,0 +1,150 @@
+Summary for /www/javadecompilers/app/public/data/29.01.16/e6ffbcf08b716a26d147fdf75c254283/AuthMe-3.5-SNAPSHOT.jar
+Decompiled with CFR 0_110
+
+
+javax.mail.internet.MimeMessage
+----------------------------
+
+writeTo(java.io.OutputStream java.lang.String[] )
+  Unable to fully structure code
+
+
+javax.mail.internet.InternetAddress
+----------------------------
+
+parse(java.lang.String boolean boolean )
+  Unable to fully structure code
+
+
+javax.mail.internet.MimeUtility
+----------------------------
+
+getEncoding(javax.activation.DataSource )
+  Unable to fully structure code
+
+
+javax.mail.internet.MimeMultipart
+----------------------------
+
+parse()
+  Unable to fully structure code
+
+
+javax.mail.Session
+----------------------------
+
+loadFile(java.lang.String javax.mail.StreamLoader )
+  Loose catch block
+loadAllResources(java.lang.String java.lang.Class javax.mail.StreamLoader )
+  Loose catch block
+
+
+com.sun.mail.imap.IMAPBodyPart
+----------------------------
+
+getHeaderStream()
+  Unable to fully structure code
+
+
+com.sun.mail.imap.MessageCache
+----------------------------
+
+ensureCapacity(int int )
+  Unable to fully structure code
+
+
+com.sun.mail.imap.IMAPFolder
+----------------------------
+
+idle(boolean )
+  Loose catch block
+
+
+com.sun.mail.iap.ResponseInputStream
+----------------------------
+
+readResponse(com.sun.mail.iap.ByteArray )
+  Unable to fully structure code
+
+
+com.sun.mail.pop3.Protocol
+----------------------------
+
+setCapabilities(java.io.InputStream )
+  Loose catch block
+
+
+com.sun.mail.pop3.POP3Folder
+----------------------------
+
+getSizes()
+  Loose catch block
+
+
+com.sun.mail.util.logging.MailHandler
+----------------------------
+
+verifySettings0(javax.mail.Session java.lang.String )
+  Unable to fully structure code
+
+
+com.sun.mail.util.UUDecoderStream
+----------------------------
+
+readPrefix()
+  Unable to fully structure code
+decode()
+  Unable to fully structure code
+
+
+fr.xephi.authme.process.login.AsyncronousLogin
+----------------------------
+
+process()
+  Unable to fully structure code
+
+
+fr.xephi.authme.datasource.FlatFileThread
+----------------------------
+
+isAuthAvailable(java.lang.String )
+  Unable to fully structure code
+saveAuth(fr.xephi.authme.cache.auth.PlayerAuth )
+  Unable to fully structure code
+updatePassword(fr.xephi.authme.cache.auth.PlayerAuth )
+  Unable to fully structure code
+updateSession(fr.xephi.authme.cache.auth.PlayerAuth )
+  Unable to fully structure code
+updateQuitLoc(fr.xephi.authme.cache.auth.PlayerAuth )
+  Unable to fully structure code
+getIps(java.lang.String )
+  Unable to fully structure code
+purgeDatabase(long )
+  Unable to fully structure code
+autoPurgeDatabase(long )
+  Unable to fully structure code
+removeAuth(java.lang.String )
+  Unable to fully structure code
+getAuth(java.lang.String )
+  Unable to fully structure code
+updateEmail(fr.xephi.authme.cache.auth.PlayerAuth )
+  Unable to fully structure code
+getAllAuthsByName(fr.xephi.authme.cache.auth.PlayerAuth )
+  Unable to fully structure code
+getAllAuthsByIp(java.lang.String )
+  Unable to fully structure code
+getAllAuthsByEmail(java.lang.String )
+  Unable to fully structure code
+purgeBanned(java.util.List<java.lang.String> )
+  Unable to fully structure code
+getAccountsRegistered()
+  Unable to fully structure code
+getAllAuths()
+  Unable to fully structure code
+
+
+fr.xephi.authme.commands.AdminCommand
+----------------------------
+
+onCommand(org.bukkit.command.CommandSender org.bukkit.command.Command java.lang.String java.lang.String[] )
+  Unable to fully structure code

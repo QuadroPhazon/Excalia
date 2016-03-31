@@ -1,0 +1,12 @@
+/*
+ * Decompiled with CFR 0_110.
+ */
+package com.earth2me.essentials.commands;
+
+public class NoChargeException
+extends Exception {
+    public NoChargeException() {
+        super("Will charge later");
+    }
+}
+

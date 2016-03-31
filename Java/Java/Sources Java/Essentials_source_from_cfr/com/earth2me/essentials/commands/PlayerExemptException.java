@@ -1,0 +1,12 @@
+/*
+ * Decompiled with CFR 0_110.
+ */
+package com.earth2me.essentials.commands;
+
+public class PlayerExemptException
+extends NoSuchFieldException {
+    public PlayerExemptException(String message) {
+        super(message);
+    }
+}
+
